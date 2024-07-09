@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIAL.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIAL.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALBD.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALBD.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALBI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALBI.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALI.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALN.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALN.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALNB.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNB.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALNBI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNBI.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIALNI.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIALNI.TTF"
+    },
+    {
+      "Id": "C:\\Users\\5417011\\source\\repos\\Chernov\\Chernov\\wwwroot\\fonts\\ARIBLK.TTF",
+      "PackagePath": "staticwebassets\\fonts\\ARIBLK.TTF"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ShopApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ShopApp.props",
+      "PackagePath": "build\\ShopApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ShopApp.props",
+      "PackagePath": "buildMultiTargeting\\ShopApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ShopApp.props",
+      "PackagePath": "buildTransitive\\ShopApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
