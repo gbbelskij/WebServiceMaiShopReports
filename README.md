@@ -22,7 +22,7 @@
 ```sh
 git clone https://github.com/gbbelskij/WebServiceMaiShopReports.git
 cd WebServiceMaiShopReports
-
+```
 
 ### Настройка базы данных
 ```
